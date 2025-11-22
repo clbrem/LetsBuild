@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LetsBuild.AppHost", "LetsBuild.AppHost\LetsBuild.AppHost.fsproj", "{D3697ED4-87A3-4B7B-8BB3-88F6FF621BC0}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LetsBuild.Database", "LetsBuild.Database\LetsBuild.Database.fsproj", "{98B25D17-CA7D-4974-8C31-63053A5DBF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3697ED4-87A3-4B7B-8BB3-88F6FF621BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3697ED4-87A3-4B7B-8BB3-88F6FF621BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3697ED4-87A3-4B7B-8BB3-88F6FF621BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3697ED4-87A3-4B7B-8BB3-88F6FF621BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B25D17-CA7D-4974-8C31-63053A5DBF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B25D17-CA7D-4974-8C31-63053A5DBF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B25D17-CA7D-4974-8C31-63053A5DBF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B25D17-CA7D-4974-8C31-63053A5DBF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
